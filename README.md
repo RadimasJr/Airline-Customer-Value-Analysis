@@ -1,2 +1,2 @@
 # Airline-Customer-Value-Analysis
-Airline Customer Value Analysis Case with K-means Clustering
+Airline Customer Value Analysis Case with K-means Clustering Modelling
